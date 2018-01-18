@@ -1,0 +1,15 @@
+.lgbox {
+  height: 48px;
+  width: 48px;
+  display: inline-block;
+  border: 1px solid white;
+  background: lightgreen;
+}
+
+.dgbox {
+  height: 48px;
+  width: 48px;
+  display: inline-block;
+  border: 1px solid white;
+  background: green;
+}
